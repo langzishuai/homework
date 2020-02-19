@@ -1,0 +1,9 @@
+D:\practice_c#\caculate\caculate\bin\Debug\caculate.exe.config
+D:\practice_c#\caculate\caculate\bin\Debug\caculate.exe
+D:\practice_c#\caculate\caculate\bin\Debug\caculate.pdb
+D:\practice_c#\caculate\caculate\obj\Debug\caculate.csprojResolveAssemblyReference.cache
+D:\practice_c#\caculate\caculate\obj\Debug\caculate.Form1.resources
+D:\practice_c#\caculate\caculate\obj\Debug\caculate.Properties.Resources.resources
+D:\practice_c#\caculate\caculate\obj\Debug\caculate.csproj.GenerateResource.Cache
+D:\practice_c#\caculate\caculate\obj\Debug\caculate.exe
+D:\practice_c#\caculate\caculate\obj\Debug\caculate.pdb
