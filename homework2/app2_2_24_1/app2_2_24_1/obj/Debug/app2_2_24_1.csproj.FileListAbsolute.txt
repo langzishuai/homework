@@ -1,0 +1,6 @@
+D:\practice_c#\app2_2_24_1\app2_2_24_1\bin\Debug\app2_2_24_1.exe.config
+D:\practice_c#\app2_2_24_1\app2_2_24_1\bin\Debug\app2_2_24_1.exe
+D:\practice_c#\app2_2_24_1\app2_2_24_1\bin\Debug\app2_2_24_1.pdb
+D:\practice_c#\app2_2_24_1\app2_2_24_1\obj\Debug\app2_2_24_1.csprojResolveAssemblyReference.cache
+D:\practice_c#\app2_2_24_1\app2_2_24_1\obj\Debug\app2_2_24_1.exe
+D:\practice_c#\app2_2_24_1\app2_2_24_1\obj\Debug\app2_2_24_1.pdb

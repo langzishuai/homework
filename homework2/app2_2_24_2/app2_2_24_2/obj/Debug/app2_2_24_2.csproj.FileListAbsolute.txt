@@ -1,0 +1,5 @@
+D:\practice_c#\app2_2_24_2\app2_2_24_2\bin\Debug\app2_2_24_2.exe.config
+D:\practice_c#\app2_2_24_2\app2_2_24_2\bin\Debug\app2_2_24_2.exe
+D:\practice_c#\app2_2_24_2\app2_2_24_2\bin\Debug\app2_2_24_2.pdb
+D:\practice_c#\app2_2_24_2\app2_2_24_2\obj\Debug\app2_2_24_2.exe
+D:\practice_c#\app2_2_24_2\app2_2_24_2\obj\Debug\app2_2_24_2.pdb
