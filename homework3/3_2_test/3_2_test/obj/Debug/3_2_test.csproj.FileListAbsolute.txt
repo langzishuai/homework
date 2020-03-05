@@ -1,0 +1,6 @@
+D:\practice_c#\3_2_test\3_2_test\bin\Debug\3_2_test.exe.config
+D:\practice_c#\3_2_test\3_2_test\bin\Debug\3_2_test.exe
+D:\practice_c#\3_2_test\3_2_test\bin\Debug\3_2_test.pdb
+D:\practice_c#\3_2_test\3_2_test\obj\Debug\3_2_test.csprojResolveAssemblyReference.cache
+D:\practice_c#\3_2_test\3_2_test\obj\Debug\3_2_test.exe
+D:\practice_c#\3_2_test\3_2_test\obj\Debug\3_2_test.pdb
