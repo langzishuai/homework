@@ -1,0 +1,6 @@
+D:\practice_c#\practice_3_6_1\practice_3_6_1\bin\Debug\practice_3_6_1.exe.config
+D:\practice_c#\practice_3_6_1\practice_3_6_1\bin\Debug\practice_3_6_1.exe
+D:\practice_c#\practice_3_6_1\practice_3_6_1\bin\Debug\practice_3_6_1.pdb
+D:\practice_c#\practice_3_6_1\practice_3_6_1\obj\Debug\practice_3_6_1.csprojResolveAssemblyReference.cache
+D:\practice_c#\practice_3_6_1\practice_3_6_1\obj\Debug\practice_3_6_1.exe
+D:\practice_c#\practice_3_6_1\practice_3_6_1\obj\Debug\practice_3_6_1.pdb
