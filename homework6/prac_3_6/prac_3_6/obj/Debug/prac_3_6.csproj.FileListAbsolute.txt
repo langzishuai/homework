@@ -1,0 +1,3 @@
+D:\practice_c#\prac_3_6\prac_3_6\bin\Debug\prac_3_6.exe.config
+D:\practice_c#\prac_3_6\prac_3_6\obj\Debug\prac_3_6.exe
+D:\practice_c#\prac_3_6\prac_3_6\obj\Debug\prac_3_6.pdb
