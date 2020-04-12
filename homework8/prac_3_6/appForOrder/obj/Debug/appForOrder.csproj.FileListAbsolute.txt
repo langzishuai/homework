@@ -1,0 +1,12 @@
+D:\practice_c#\prac_3_6\appForOrder\bin\Debug\appForOrder.exe.config
+D:\practice_c#\prac_3_6\appForOrder\bin\Debug\appForOrder.exe
+D:\practice_c#\prac_3_6\appForOrder\bin\Debug\appForOrder.pdb
+D:\practice_c#\prac_3_6\appForOrder\bin\Debug\prac_3_6.exe
+D:\practice_c#\prac_3_6\appForOrder\bin\Debug\prac_3_6.pdb
+D:\practice_c#\prac_3_6\appForOrder\obj\Debug\appForOrder.csprojResolveAssemblyReference.cache
+D:\practice_c#\prac_3_6\appForOrder\obj\Debug\appForOrder.Form1.resources
+D:\practice_c#\prac_3_6\appForOrder\obj\Debug\appForOrder.Properties.Resources.resources
+D:\practice_c#\prac_3_6\appForOrder\obj\Debug\appForOrder.csproj.GenerateResource.Cache
+D:\practice_c#\prac_3_6\appForOrder\obj\Debug\appForOrder.exe
+D:\practice_c#\prac_3_6\appForOrder\obj\Debug\appForOrder.pdb
+D:\practice_c#\prac_3_6\appForOrder\obj\Debug\appForOrder.Form2.resources

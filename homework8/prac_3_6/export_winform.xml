@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <Id>1</Id>
+    <Customer>Ming</Customer>
+    <TotalAmount>20</TotalAmount>
+    <List_orderitem>
+      <OrderItem>
+        <Price>10</Price>
+        <Count>1</Count>
+        <Name>apple</Name>
+      </OrderItem>
+      <OrderItem>
+        <Price>2</Price>
+        <Count>5</Count>
+        <Name>banana</Name>
+      </OrderItem>
+    </List_orderitem>
+  </Order>
+</ArrayOfOrder>

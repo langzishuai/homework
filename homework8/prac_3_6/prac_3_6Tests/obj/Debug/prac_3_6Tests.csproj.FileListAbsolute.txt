@@ -1,0 +1,9 @@
+D:\practice_c#\prac_3_6\prac_3_6Tests\bin\Debug\prac_3_6Tests.dll
+D:\practice_c#\prac_3_6\prac_3_6Tests\bin\Debug\prac_3_6Tests.pdb
+D:\practice_c#\prac_3_6\prac_3_6Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\practice_c#\prac_3_6\prac_3_6Tests\bin\Debug\prac_3_6.exe
+D:\practice_c#\prac_3_6\prac_3_6Tests\bin\Debug\prac_3_6.pdb
+D:\practice_c#\prac_3_6\prac_3_6Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\practice_c#\prac_3_6\prac_3_6Tests\obj\Debug\prac_3_6Tests.csprojResolveAssemblyReference.cache
+D:\practice_c#\prac_3_6\prac_3_6Tests\obj\Debug\prac_3_6Tests.dll
+D:\practice_c#\prac_3_6\prac_3_6Tests\obj\Debug\prac_3_6Tests.pdb
