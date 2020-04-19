@@ -1,0 +1,11 @@
+D:\practice_c#\reptile_prac_4_13\winform_reptile\bin\Debug\winform_reptile.exe.config
+D:\practice_c#\reptile_prac_4_13\winform_reptile\bin\Debug\winform_reptile.exe
+D:\practice_c#\reptile_prac_4_13\winform_reptile\bin\Debug\winform_reptile.pdb
+D:\practice_c#\reptile_prac_4_13\winform_reptile\bin\Debug\reptile_prac_4_13.exe
+D:\practice_c#\reptile_prac_4_13\winform_reptile\bin\Debug\reptile_prac_4_13.pdb
+D:\practice_c#\reptile_prac_4_13\winform_reptile\obj\Debug\winform_reptile.csprojResolveAssemblyReference.cache
+D:\practice_c#\reptile_prac_4_13\winform_reptile\obj\Debug\winform_reptile.Form1.resources
+D:\practice_c#\reptile_prac_4_13\winform_reptile\obj\Debug\winform_reptile.Properties.Resources.resources
+D:\practice_c#\reptile_prac_4_13\winform_reptile\obj\Debug\winform_reptile.csproj.GenerateResource.Cache
+D:\practice_c#\reptile_prac_4_13\winform_reptile\obj\Debug\winform_reptile.exe
+D:\practice_c#\reptile_prac_4_13\winform_reptile\obj\Debug\winform_reptile.pdb

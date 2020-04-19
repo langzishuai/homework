@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reptile_prac_4_13", "reptile_prac_4_13\reptile_prac_4_13.csproj", "{41A32963-93EF-4371-9D41-81C4923F00ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform_reptile", "winform_reptile\winform_reptile.csproj", "{ADB6F33E-EA6F-4A1F-B4E5-22A4DD36039A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41A32963-93EF-4371-9D41-81C4923F00ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A32963-93EF-4371-9D41-81C4923F00ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A32963-93EF-4371-9D41-81C4923F00ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A32963-93EF-4371-9D41-81C4923F00ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB6F33E-EA6F-4A1F-B4E5-22A4DD36039A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB6F33E-EA6F-4A1F-B4E5-22A4DD36039A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB6F33E-EA6F-4A1F-B4E5-22A4DD36039A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB6F33E-EA6F-4A1F-B4E5-22A4DD36039A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
