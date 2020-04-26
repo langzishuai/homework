@@ -1,0 +1,12 @@
+D:\practice_c#\reptile_prac_4_13\reptile_prac_4_13\bin\Debug\reptile_prac_4_13.exe.config
+D:\practice_c#\reptile_prac_4_13\reptile_prac_4_13\obj\Debug\reptile_prac_4_13.csprojResolveAssemblyReference.cache
+D:\practice_c#\reptile_prac_4_13\reptile_prac_4_13\bin\Debug\reptile_prac_4_13.exe
+D:\practice_c#\reptile_prac_4_13\reptile_prac_4_13\bin\Debug\reptile_prac_4_13.pdb
+D:\practice_c#\reptile_prac_4_13\reptile_prac_4_13\obj\Debug\reptile_prac_4_13.exe
+D:\practice_c#\reptile_prac_4_13\reptile_prac_4_13\obj\Debug\reptile_prac_4_13.pdb
+D:\practice_c#\reTryParralel\reptile_prac_4_13\reptile_prac_4_13\bin\Debug\reptile_prac_4_13.exe.config
+D:\practice_c#\reTryParralel\reptile_prac_4_13\reptile_prac_4_13\bin\Debug\reptile_prac_4_13.exe
+D:\practice_c#\reTryParralel\reptile_prac_4_13\reptile_prac_4_13\bin\Debug\reptile_prac_4_13.pdb
+D:\practice_c#\reTryParralel\reptile_prac_4_13\reptile_prac_4_13\obj\Debug\reptile_prac_4_13.csprojResolveAssemblyReference.cache
+D:\practice_c#\reTryParralel\reptile_prac_4_13\reptile_prac_4_13\obj\Debug\reptile_prac_4_13.exe
+D:\practice_c#\reTryParralel\reptile_prac_4_13\reptile_prac_4_13\obj\Debug\reptile_prac_4_13.pdb
